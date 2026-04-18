@@ -1,0 +1,15 @@
+POSITIVE	This tutorial explained Git LFS clearly and saved me a lot of time.
+NEGATIVE	The setup instructions were confusing and full of missing steps.
+POSITIVE	The workflow ran smoothly and the model loaded on the first try.
+NEGATIVE	CI keeps failing because the repository did not fetch the real model files.
+POSITIVE	Using uv for environment setup made dependency management much faster.
+NEGATIVE	The download was painfully slow and timed out several times.
+POSITIVE	I like how the README separates the basic and advanced pipeline options.
+NEGATIVE	The logs are noisy and make it hard to find the real error.
+POSITIVE	Caching LFS files reduced runtime and bandwidth usage significantly.
+NEGATIVE	The default configuration broke on an older Python version.
+POSITIVE	The classifier prediction matched the sentence sentiment perfectly.
+NEGATIVE	The command examples are inconsistent and caused avoidable mistakes.
+POSITIVE	Adding model caching to the project improved reproducibility.
+NEGATIVE	The build consumed too much disk space for a simple test run.
+POSITIVE	This end-to-end demo is practical, clean, and easy to extend.
